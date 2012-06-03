@@ -1,5 +1,6 @@
 " Vim syntax file
-" Language:	English, Dentistry
+" english-dent.vim
+" Language:	English, Dental
 " Maintainer: Hyunsung Joo <ilashman@gmail.com>
 " Last Change: 2012 Jun 2
 
