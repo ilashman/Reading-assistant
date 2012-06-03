@@ -1,4 +1,4 @@
-" Vim syntax file
+" Vim syntax file 
 " english-dent.vim
 " Language:	English, Dental
 " Maintainer: Hyunsung Joo <ilashman@gmail.com>

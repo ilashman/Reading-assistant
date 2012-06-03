@@ -1,4 +1,4 @@
-" Vim syntax file
+" Vim syntax file 
 " korean.vim
 " Language:	Korean
 " Maintainer: Hyunsung Joo <ilashman@gmail.com>
