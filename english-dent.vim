@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	English, Dentistry
 " Maintainer: Hyunsung Joo <ilashman@gmail.com>
-" Last Change: 2012 Jun 1
+" Last Change: 2012 Jun 2
 
 syn region parenthesis start="(" end=")"
 syn region parenthesis start="\"" end="\""

@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	Korean
 " Maintainer: Hyunsung Joo <ilashman@gmail.com>
-" Last Change: 2012 Jun 1
+" Last Change: 2012 Jun 2
 
 syn match nouns /..Àº/
 syn match nouns /..´Â/
